@@ -483,7 +483,6 @@
 				HEADER_SEARCH_PATHS = "/usr/local/Cellar/opencv/**";
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
-					/usr/local/Cellar/opencv/3.4.0_1/lib,
 					/usr/local/Cellar/opencv/3.4.3/lib,
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -496,7 +495,6 @@
 				HEADER_SEARCH_PATHS = "/usr/local/Cellar/opencv/**";
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
-					/usr/local/Cellar/opencv/3.4.0_1/lib,
 					/usr/local/Cellar/opencv/3.4.3/lib,
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
